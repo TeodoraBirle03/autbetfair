@@ -8,6 +8,6 @@ public class SumOfNumbers {
         for (int i = 1; i <= 100; i++) {
             sumOfNumbers = sumOfNumbers + i;
         }
-        System.out.println("suma primelor 100 de numere este:" + sumOfNumbers);
+        System.out.println("Suma primelor 100 de numere = " + sumOfNumbers);
     }
 }
