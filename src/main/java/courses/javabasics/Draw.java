@@ -2,15 +2,15 @@ package courses.javabasics;
 
 public class Draw {
 
-//    public static void main(String[] args) {
+    public static void main(String[] args) {
 //        System.out.println("Param 1:" + args[0] + "\nParam 2:" + args[1]);
 //        drawFullShape(args[0], args[1]);
-////        drawFullShape(3,4);
-//        System.out.println("Draw same size shape");
-//        drawFullShape(3);
-//        System.out.println("Draw same size  as string");
+//        drawFullShape(3,4);
+        System.out.println("Draw same size shape");
+        drawFullShape(3);
+        System.out.println("Draw same size  as string");
 //        drawFullShape(args[0]);
-//    }
+    }
 
     public static void drawFullShape(int n, int m) {
         // implement method
